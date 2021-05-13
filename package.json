@@ -1,0 +1,16 @@
+{
+  "name": "discord-account-destroyer-main",
+  "version": "1.0.0",
+  "description": "Destroys discord accounts. Removes all friends, leaves / deletes all guilds, sends a message to all friends.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "readline-sync": "^1.4.10"
+  }
+}
